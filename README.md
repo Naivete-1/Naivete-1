@@ -9,6 +9,7 @@ I am a Computer Engineering graduate interested in building practical technology
 * **Web Development:** HTML, CSS, Flask
 * **Networking:** Cisco, Routing & Switching, IP Subnetting,TCP/IP,DNS
 * **Databases:** SQL, SQLite
+* **AI &Development tools:** GitHub Copilot, CircuitMind,Cursor,Codeium,Wolfram Alpha
 * **IoT:** ESP32, MQTT
 * **Tools:** Git, GitHub, Cisco Packet Tracer,MATLAB,AutoCAD
 * **Microprocessors:** Arduino,ARM
